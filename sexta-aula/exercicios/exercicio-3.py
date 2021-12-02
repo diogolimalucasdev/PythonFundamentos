@@ -146,6 +146,6 @@ print(f"Total de votos Nulos foi de : {nulo} que equivale a: {porc_nulo * 100}  
 print(f"Total de votos em Branco foi de : {branco} que equivale a: {porc_branco * 100}  %")
 
 
-
+print("Finalizado a votação")
 
 
